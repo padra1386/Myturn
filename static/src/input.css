@@ -1,0 +1,12 @@
+/* static/src/input.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "DANA";
+  font-style: normal;
+  font-weight: normal;
+  src: local("dana regular"), url("dana regular.woff") format("woff");
+}
